@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Halloween pumpkins</string>
+    <string name="tagline">Halloween pumpkins for everyone</string>
+    <string name="phoneLabel">phone: </string>
+    <string name="phone">+3134567756</string>
+    <string name="emailLabel">email: </string>
+    <string name="email">pumpkins@sale.com</string>
+    <string name="website">www.pumpkins.net</string>
+    <string name="description">Amazing halloween pumpkins only for $15.99</string>
+</resources>
